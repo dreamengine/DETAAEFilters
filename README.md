@@ -3,7 +3,7 @@
 
 ## What It Does
 
-`DETAAEFilters` simplifies getting basic audio filters up and running when using *The Amazing Audio Engine*. Instead of always using raw C and *CoreAudio* patterns, `DETAAEFilters` provides object wrappers for each of the audio filters provided by Apple. E.g. to apply a low-pass filter to a signal, you can simply instantiate `DELowPassFilter` and set its frequency and resonance values using properties.
+`DETAAEFilters` simplifies getting basic audio filters up and running when using *The Amazing Audio Engine*. Instead of always using raw C and *CoreAudio* patterns, `DETAAEFilters` provides object wrappers for each of the audio filters provided by Apple. E.g. to apply a low-pass filter to a signal, you can simply instantiate `DELowPassFilter` and set its frequency and resonance values properties.
 
 ## How It Works
 
