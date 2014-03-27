@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.frameworks   = ['Foundation', 'Accelerate', 'AudioToolbox', 'CoreAudio']
   s.source       = { :git => 'https://github.com/dreamengine/DETAAEFilters.git', :tag => s.version.to_s }
-  s.source_files = 'src/*.{h,m}'
+  s.source_files = 'src/*.{h,m}', 'src/Abstract/*.{h,m}'
 
   s.dependency 'TheAmazingAudioEngine'
 

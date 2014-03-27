@@ -12,7 +12,6 @@
 Here is a list of available signal modifiers:
 
 * Bandpass
-* DC filter
 * Delay
 * Distortion
 * Dynamics Processor
