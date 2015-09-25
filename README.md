@@ -1,9 +1,14 @@
-# DETAAEFilters
+# NOTE: This library has been [merged](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine/commit/73559c31c5cfecb374d3af1b2041169ea10a50f5) directly into The Amazing Audio Engine. The DETAAEFilters repository is therefore deprecated and will no longer be maintained.
+
+
+# ~~DETAAEFilters~~
 [https://github.com/dreamengine/DETAAEFilters](https://github.com/dreamengine/DETAAEFilters)
 
 ## What It Does
 
-`DETAAEFilters` simplifies getting basic audio filters up and running when using *The Amazing Audio Engine*. Instead of always using raw C and *CoreAudio* patterns, `DETAAEFilters` provides object wrappers for each of the audio filters provided by Apple. E.g. to apply a low-pass filter to a signal, you can simply instantiate `DELowPassFilter` and set its frequency and resonance values properties.
+NOTE: This library has been [merged](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine/commit/73559c31c5cfecb374d3af1b2041169ea10a50f5) directly into The Amazing Audio Engine. The DETAAEFilters repository is therefore deprecated and will no longer be maintained.
+
+~~`DETAAEFilters` simplifies getting basic audio filters up and running when using *The Amazing Audio Engine*. Instead of always using raw C and *CoreAudio* patterns, `DETAAEFilters` provides object wrappers for each of the audio filters provided by Apple. E.g. to apply a low-pass filter to a signal, you can simply instantiate `DELowPassFilter` and set its frequency and resonance values properties.~~
 
 ## How It Works
 
